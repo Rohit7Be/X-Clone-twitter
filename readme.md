@@ -1,4 +1,4 @@
-X-(twitter) official clone
+X-(twitter) official clone <br>
 I have used HTML and Tailwind CSS to make this project.<br>
 frontend based project.<br>
 I have used Tailwind css for applying every styling in this project.<br>
